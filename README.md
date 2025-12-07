@@ -1,3 +1,27 @@
+# Organization Positions Manager
+
+A web application for managing **positions and roles within an organization**.  
+Allows adding, updating, and deleting positions with a clean user interface.
+
+---
+
+## 🌟 Key Features
+
+- Add, edit, delete organizational positions
+- Assign positions to employees (optional)
+- Responsive and user-friendly UI
+- Lightweight and fast
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/Nebagit/organization-positions.git
+cd organization-positions
+npm install
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
